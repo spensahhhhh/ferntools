@@ -3,7 +3,7 @@ Title: Grabbag of Random Functions
 Version: 0.0.0.900
 Authors@R: 
     person("Spencer", "Fern", , "spencer@restorethedelta.org", role = c("aut", "cre"))
-Description: Random set of functions for Delta training
+Description: Random set of functions for Delta training.
 License: Apache License (>= 2)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
