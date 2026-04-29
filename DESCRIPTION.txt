@@ -1,0 +1,11 @@
+Package: ferntools
+Title: Grabbag of Random Functions
+Version: 0.0.0.900
+Authors@R: 
+    person("Spencer", "Fern", , "spencer@restorethedelta.org", role = c("aut", "cre"))
+Description: Random set of functions for Delta training
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
